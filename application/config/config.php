@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = '';
-$config['base_url'] = (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') .$_SERVER['HTTP_HOST']."/denolaCRUD";
+$config['base_url'] = (isset($_SERVER['HTTPS']) ? 'https://' : 'http://') .$_SERVER['HTTP_HOST']."/Gem-Louie-Angelo-Denola";
 /*
 |--------------------------------------------------------------------------
 | Index File
